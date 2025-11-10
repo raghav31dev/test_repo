@@ -1,3 +1,2 @@
-new file
-hello git
-i am adding third line
+Hello Git
+Adding new line
